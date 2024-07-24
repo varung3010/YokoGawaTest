@@ -1,0 +1,12 @@
+name = "varun"
+age = 23
+height = 5.5
+is_student = True
+
+print ("name of student", name )
+print ("hight of the student" , height)
+print ("age of the student", age)
+print ("is that student present", is_student)
+
+
+
