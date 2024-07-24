@@ -1,7 +1,7 @@
 name = "varun"
 age = 23
 height = 5.5
-is_student = True
+is_student = False
 
 print ("name of employee", name )
 print ("hight of the student" , height)
